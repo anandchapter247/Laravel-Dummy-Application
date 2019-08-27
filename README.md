@@ -4,8 +4,9 @@ This Application is created on Laravel 5.8.
 This contains a Simple Auth and Blog Creation and Deletion.
 
 This appliation is using cutom:
-
-> 1. Controllers (app/Http/Controllers/HomeController.php)
+<ol>
+  <li>Controllers (app/Http/Controllers/HomeController.php)</li>
+</ol>
 > 2. Model (app/Blog.php)
 > 3. Middleware (app/Http/Middleware/CheckAddFormValidation.php)
 > 4. Facades (app/Facade/UserDetailsFacade.php)
